@@ -1,21 +1,19 @@
 # Комментарии по работам Технических писателей
   
   
-<u>Общее замечание по всем работам:</u> замечание...\
+***Общее замечание по всем работам:*** замечание...
   
-
-<u>Ссылки на работы конкурсантов:</u>\
-* (https://github.com/AnnaVoenmeh/Playground "Переход на работу Анны Дементьевой") 
-* (https://github.com/MariySimonova/Sandbox "Переход на работу Марии Симоновой")
-* (https://github.com/Rudashevskiy/tech "Переход на работу Романа Рудашевского")
-* (https://github.com/melany20/first_lesson/tree/main/images "Переход на работу Людмилы Аитовой")
-* (https://github.com/Mariya-Ill/First-lesson "Переход на работу Марии Илларионовой")
-* (https://github.com/Elena567-collab/rukovodstvo_2/tree/main "Переход на работу Елены Овсянкиной")
-* (https://github.com/Ekaterinka17/primery "Переход на работу Екатерины Дурных")
-* (https://github.com/PolinaTW/GIT-Education/tree/main "Переход на работу Полины Стрельник")
+Ссылки на работы конкурсантов:
+* [Анна Дементьева](https://github.com/AnnaVoenmeh/Playground "Переход на работу Анны Дементьевой") 
+* [Марии Симоновой](https://github.com/MariySimonova/Sandbox "Переход на работу Марии Симоновой")
+* [Романа Рудашевского](https://github.com/Rudashevskiy/tech "Переход на работу Романа Рудашевского")
+* [Людмилы Аитовой](https://github.com/melany20/first_lesson/tree/main/images "Переход на работу Людмилы Аитовой")
+* [Марии Илларионовой](https://github.com/Mariya-Ill/First-lesson "Переход на работу Марии Илларионовой")
+* [Елены Овсянкиной](https://github.com/Elena567-collab/rukovodstvo_2/tree/main "Переход на работу Елены Овсянкиной")
+* [Екатерины Дурных](https://github.com/Ekaterinka17/primery "Переход на работу Екатерины Дурных")
+* [Полины Стрельник](https://github.com/PolinaTW/GIT-Education/tree/main "Переход на работу Полины Стрельник")
   
-
-<u>Комментарии на работы:</u>\
+***Комментарии на работы:***
   
   
 * Мой комментарий на работу [Анны Дементьевой]()
