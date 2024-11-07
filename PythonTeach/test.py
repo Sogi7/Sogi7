@@ -1,2 +1,6 @@
 print(type(1))
 print(type(1.3))
+print(1 > 3)
+float(10)
+print(123 ** 3.64)
+print('hello' + ' world')
